@@ -1,4 +1,4 @@
-"gunicorn application server running AirBnB_clone_v4"
+description "gunicorn application server running AirBnB_clone_v4"
 author "Brennan Baraban"
 
 start on runlevel [2345]
